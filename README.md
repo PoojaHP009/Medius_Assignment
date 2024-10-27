@@ -3,8 +3,10 @@
 download this folder "Medius_prj"
 
 in view.py 
-line number 29: sendermail=" " #mention here your mail id(From)
+line number 29: sendermail=" " #mention here your mail id(From) 
 line number 30: senderpsw = " " #mention here pswd contain like example "asdf sdfg ghjk edft")
+line number 30: email=" " #mention here from whome your sending mail id(To)
+
 
 like this "asdf sdfg ghjk edft" you get in steps follows:
 step 1: open chorme -> go to manage your google account.
