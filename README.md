@@ -23,3 +23,17 @@ step 6: use this password to code view.py line number 30.
 Run this program: path should be for Medius_prj step 1:activate .venv step 2:path ------ Medius_prj>py manage.py runserver
 
 upload attached csv file only you will get exact output as attached image
+
+working :
+you will get two hyperlinks in output page..
+Index -> for uploading csv file and click on submit button.
+After click submit click on mail hyper link
+Mail -> check image and click on send mail button.
+After clicking send mail button check on sender mail id.
+
+
+From : " "#your mail id will be
+Subject: Python Assignment - _______ # in _________ -> your name
+body: 
+Here is your image:
+then image show as -> data.jpg
