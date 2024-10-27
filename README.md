@@ -19,4 +19,5 @@ step 5:After clicking create button you will find popup box.
         Generated app password
         Your app password for your device (below this you will find password contains)
         "asdf sdfg ghjk edft" (not exact words you will some other words)
-        
+step 6: use this password to code view.py line number 30.
+
