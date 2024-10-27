@@ -36,4 +36,4 @@ From : " "#your mail id will be
 Subject: Python Assignment - _______ # in _________ -> your name
 body: 
 Here is your image:
-then image show as -> data.jpg
+then image show as -> data.jpg.
