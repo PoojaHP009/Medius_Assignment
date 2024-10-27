@@ -24,3 +24,11 @@ step 5:After clicking create button you will find popup box.
         "asdf sdfg ghjk edft" (not exact words you will some other words)
 step 6: use this password to code view.py line number 30.
 
+Run this program:
+path should be for Medius_prj
+step 1:activate .venv
+step 2:path ------ Medius_prj>py manage.py runserver
+
+upload attached csv file only
+you will get exact output as attached image
+
