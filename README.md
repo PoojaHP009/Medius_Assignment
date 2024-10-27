@@ -5,7 +5,8 @@ download this folder "Medius_prj"
 in view.py 
 line number 29: sendermail=" " #mention here your mail id(From) 
 line number 30: senderpsw = " " #mention here pswd contain like example "asdf sdfg ghjk edft")
-line number 30: email=" " #mention here from whome your sending mail id(To)
+line number 58: email=" " #mention here from whome your sending mail id(To)
+line number 59: subject = "Python Assignment - _____" #in underscore you can write ur name
 
 
 like this "asdf sdfg ghjk edft" you get in steps follows:
