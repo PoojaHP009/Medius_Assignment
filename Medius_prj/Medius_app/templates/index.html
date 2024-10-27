@@ -1,0 +1,31 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Upload</title>
+</head>
+<body>
+<h5><a href="index">INDEX</a></h5>
+<h5><a href="mail">MAIL</a></h5>
+    <form action="" method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        <h1>
+            {{msg}}
+        </h1>
+
+        <table>
+            <tr>
+                <td>upload csv</td>
+                <td> <input type="file" name="file" accept=".csv"></td>
+            </tr>
+            <tr>
+
+                <td> <input type="submit" value="Submit"></td>
+            </tr>
+        </table>
+    </form>
+
+
+</body>
+</html>
